@@ -1,7 +1,4 @@
 from pyspark.sql import SparkSession
-from databricks import koalas as ks
-import numpy as np
-import matplotlib as mpl
 
 
 def main():
